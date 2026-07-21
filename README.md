@@ -20,17 +20,7 @@ The objective of this lab was to perform a complete penetration testing assessme
 
 # Objective
 
-- Perform network reconnaissance
-- Discover active hosts
-- Enumerate open ports and services
-- Analyze web application
-- Identify hidden resources
-- Obtain initial credentials
-- Perform SSH access
-- Analyze hidden files
-- Extract hidden data from images
-- Perform privilege escalation
-- Gain root access
+Solve the lab using Penetration Testing tools.
 
 
 # Lab Methodology
